@@ -60,6 +60,9 @@ DevOps & QA   ▸ CI/CD, Git Flow, Vitest, Testing Library, Lint & Prettier Auto
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoSilvaCosta&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LeonardoSilvaCosta&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=LeonardoSilvaCosta&theme=tokyonight" alt="GitHub Streak" />
 </p>
