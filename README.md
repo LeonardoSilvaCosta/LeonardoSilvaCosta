@@ -15,11 +15,12 @@
 
 ### 👨‍💻 Sobre Mim
 
-Atuo na convergência entre **Engenharia de Software**, **Psicologia** e **Gestão Pública**. Como Oficial da Polícia Militar do Pará e desenvolvedor full stack, aplico rigor arquitetural, segurança da informação e visão centrada nas pessoas para construir sistemas escaláveis voltados para a área da saúde e operações críticas.
+Sou engenheiro de software e psicólogo, atuando como Oficial (Capitão) na Polícia Militar do Pará. Minha trajetória une o raciocínio analítico da tecnologia com o olhar humano da psicologia — o que me levou a focar no desenvolvimento de soluções reais para a área da saúde e sistemas de missão crítica.
 
-- 💡 **HealthTech & Prontuários Eletrônicos:** Idealizador e arquiteto de soluções corporativas como o **CIAP WEB** (gestão de prontuários psicossociais), com foco em segurança de dados sensíveis, conformidade e ergonomia clínica.
-- 🏛️ **Arquitetura & Engenharia:** Domínio de desenvolvimento com Next.js, Node/NestJS, Docker, bancos relacionais robustos (PostgreSQL/Supabase) e práticas modernas de observabilidade e CI/CD.
-- 🧠 **Inteligência Artificial Aplicada:** Pesquisa e desenvolvimento em integração de LLMs locais e de fronteira (Ollama, Claude, arquiteturas multi-agentes e RAG) voltadas à saúde mental e segurança pública.
+No dia a dia, trabalho na concepção, arquitetura e implementação de ponta a ponta:
+- 🏥 **HealthTech & Prontuários Eletrônicos:** Criei o **CIAP WEB**, plataforma de prontuário psicossocial da PMPA, desenhada com foco em segurança de dados sensíveis, usabilidade clínica e agilidade para equipes multidisciplinares.
+- ⚙️ **Engenharia & Arquitetura:** Desenvolvo principalmente com **Next.js**, **TypeScript**, **NestJS**, **Docker** e **PostgreSQL / Supabase**, priorizando código limpo, performance e deploys previsíveis.
+- 🧠 **IA Aplicada na Prática:** Integro modelos de linguagem (locais com Ollama e modelos de fronteira com Claude) em fluxos de triagem, suporte à documentação e pesquisa acadêmica no meu Mestrado em Segurança Pública (UFPA).
 
 ---
 
@@ -59,6 +60,6 @@ DevOps & QA   ▸ CI/CD, Git Flow, Vitest, Testing Library, Lint & Prettier Auto
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSilvaCosta&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonardoSilvaCosta&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
