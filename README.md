@@ -1,31 +1,64 @@
-### Olá, eu sou o Leonardo Costa 👋
- 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](leonardocostapsi@gmail.com)
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](91988165507)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leocostapsi/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-da-silva-costa/)
+# Leonardo Costa 👋
 
-![Leonardo Costa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight)
+<p align="left">
+  <strong>Software Engineer & Psychologist</strong> | HealthTech, Mission-Critical Systems & AI Integration
+</p>
 
-## Tecnologias que uso no dia-a-dia
+<p align="left">
+  <a href="https://www.linkedin.com/in/leonardo-da-silva-costa/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:leonardocostapsi@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.instagram.com/leocostapsi/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20%7C%20HealthTech%20%7C%20AI-0D9488?style=for-the-badge" alt="Focus" />
+</p>
 
-<div style="display: inline_block"><br/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="spring" />
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgres" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="netlify" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whitehttps://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intelij" />
-</div><br />
+---
 
-Busco contribuir com o dia-a-dia das pessoas através do desenvolvimento de soluções em T.I. que aumentam a produtividade e qualidade de vida. :)
+### 👨‍💻 Sobre Mim
+
+Atuo na convergência entre **Engenharia de Software**, **Psicologia** e **Gestão Pública**. Como Oficial da Polícia Militar do Pará e desenvolvedor full stack, aplico rigor arquitetural, segurança da informação e visão centrada nas pessoas para construir sistemas escaláveis voltados para a área da saúde e operações críticas.
+
+- 💡 **HealthTech & Prontuários Eletrônicos:** Idealizador e arquiteto de soluções corporativas como o **CIAP WEB** (gestão de prontuários psicossociais), com foco em segurança de dados sensíveis, conformidade e ergonomia clínica.
+- 🏛️ **Arquitetura & Engenharia:** Domínio de desenvolvimento com Next.js, Node/NestJS, Docker, bancos relacionais robustos (PostgreSQL/Supabase) e práticas modernas de observabilidade e CI/CD.
+- 🧠 **Inteligência Artificial Aplicada:** Pesquisa e desenvolvimento em integração de LLMs locais e de fronteira (Ollama, Claude, arquiteturas multi-agentes e RAG) voltadas à saúde mental e segurança pública.
+
+---
+
+### 🛠️ Tech Stack & Tecnologias
+
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</div>
+
+<br/>
+
+```text
+Frontend      ▸ Next.js (App Router), React, TypeScript, Tailwind CSS, Material UI
+Backend       ▸ Node.js, NestJS, REST APIs, GraphQL, Prisma ORM
+Banco & Cloud ▸ PostgreSQL, Supabase, Redis, Docker, Containerização & Self-Hosting
+AI & Data     ▸ LLM Integration (Claude, Ollama / Local Models), Multi-Agent Systems, n8n
+DevOps & QA   ▸ CI/CD, Git Flow, Vitest, Testing Library, Lint & Prettier Automation
+```
+
+---
+
+### 🎯 Foco Atual
+
+- 🚀 **Evolução de Arquiteturas em Saúde:** Expansão de plataformas de prontuários com foco em alta disponibilidade, privacidade de dados e auditoria.
+- 🤖 **Workflows e Agentes Inteligentes:** Construção de pipelines com LLMs locais para auxílio na triagem e documentação clínica estruturada.
+- 🎓 **Pesquisa Aplicada:** Mestrado em Segurança Pública (PPGSP/UFPA), investigando a aplicação de machine learning multimodal e informática em saúde.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonardoSilvaCosta&show_icons=true&theme=tokyonight&hide_border=true&title_color=2dd4bf&icon_color=2dd4bf" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoSilvaCosta&layout=compact&theme=tokyonight&hide_border=true&title_color=2dd4bf" height="150" alt="Top Languages" />
+</p>
